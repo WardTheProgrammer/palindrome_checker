@@ -1,0 +1,45 @@
+body {
+  height: 100vh;
+  background: linear-gradient(195deg, rgba(2,0,36,1) 0%, rgba(12,12,217,1) 75%, rgba(0,212,255,1) 100%);
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-family: "Pacifico";
+}
+
+#text-input {
+  display: block;
+  width: 50%;
+  margin: 4vh auto;
+  background-color: black;
+  color: #DCDCDC;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#check-btn {
+  font-family: "Pacifico";
+  display: block;
+  width: 50%;
+  height: 5vh;
+  margin: 4vh auto;
+  background-color: #ACACAC;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#result {
+  font-family: "Pacifico";
+  display: block;
+  width: 80%;
+  height: 12vh;
+  margin: 4vh auto;
+  background-color: #ECECEC;
+  font-weight: bold;
+  border: 1px dotted black;
+  text-align: center;
+  color: #2C2C2C;
+  font-size: 48px;
+}
